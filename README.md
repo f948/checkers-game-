@@ -2,6 +2,8 @@
 
 Description-A checkers game that plays like checkers except that each player has 8 pieces and double jumping is not implemented in the game. Pieces also cannot be crowned kings as you can win when one of your pieces reaches the opposite side of the board.The other way to win is if you capture all of the opponent's pieces.If one player is no longer able to make valid moves the game restarts.
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=TSJlKgIf8pU
+
 # Required
 
 A web browser to run the html file.
